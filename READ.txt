@@ -1,2 +1,3 @@
 "hello, git" 
 "hello eun!!"
+This is the first commit
